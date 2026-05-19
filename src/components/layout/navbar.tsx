@@ -21,7 +21,7 @@ export function Navbar() {
                             <MobileNavWrapper />
                         </Suspense>
                         <NavigationLink href="/" className="text-xl font-bold">
-                            <span className="font-bold text-lg tracking-tight">برامج لايف</span>
+                            <span className="font-bold text-lg tracking-tight">سوق إدكو</span>
                         </NavigationLink>
                         <nav className="hidden md:flex items-center gap-6">
                             <Suspense>
