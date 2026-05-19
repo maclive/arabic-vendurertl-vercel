@@ -36,7 +36,7 @@ export async function Footer() {
                 <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
                     <div className="md:col-span-1">
                         <NavigationLink href="/" className="inline-block mb-4">
-                            <span className="font-bold text-xl">برامج لايف</span>
+                            <span className="font-bold text-xl">سوق ادكو</span>
                         </NavigationLink>
                         <p className="text-sm text-muted-foreground leading-relaxed text-right">
                             {t('description')}
@@ -90,21 +90,21 @@ export async function Footer() {
                     </div>
 
                     <div>
-                        <p className="text-sm font-semibold mb-4">bramjlive.com</p>
+                        <p className="text-sm font-semibold mb-4">https://souqedku.com</p>
                         <ul className="space-y-2 text-sm text-muted-foreground">
                             <li>
                                 <a
-                                    href="https://bramjlive.com"
+                                    href="https://souqedku.com"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     className="hover:text-foreground transition-colors"
                                 >
-                                    الموقع الرسمي
+                                    سوق ادكو
                                 </a>
                             </li>
                             <li>
                                 <a
-                                    href="https://docs.vendure.io"
+                                    href="https://souqedku.com"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     className="hover:text-foreground transition-colors"
@@ -121,12 +121,12 @@ export async function Footer() {
                     <div className="flex items-center gap-2">
                         <span>{t('poweredBy')}</span>
                         <a
-                            href="https://bramjlive.com"
+                            href="https://https://souqedku.com"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="hover:text-foreground transition-colors font-medium"
                         >
-                            bramjlive.com
+                            https://souqedku.com
                         </a>
                     </div>
                 </div>
